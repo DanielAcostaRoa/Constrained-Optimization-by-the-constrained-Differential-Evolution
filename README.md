@@ -1,4 +1,4 @@
-# Constrained-Optimization-by-the-constrained-Differential-Evolution
+# Constrained Optimization by the constrained D.E.
 Constrained Optimization by the constrained Differential Evolution using epsilon-comparation
 
 
